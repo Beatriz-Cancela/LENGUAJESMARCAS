@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd"> 
+
+ <html> 
+ 
+	 <body> 
+	 <h1> curriculum vitae  </h1>
+	  <hr>
+	  <h2> Beatriz cancela lago  </h2>
+	  <h3>datos personales </h3>
+		 <p>direccion virgen del camino 45  </p>
+		 <p>localidad muros  </p>
+		 <p>telefono 658142036  </p>
+	 <h>formacion </h3>
+		 <p>tecnico superior en administracion e finanzas  </p>
+	 <h3>experiencia laboral  </h3>
+		 <p>trabaje durante 2 anos en banesto  </p>
+		 <p>trabaje durante 1 ano en abanca  </p>
+	 <h3>otros datos de interes </h3>
+	  <hr>
+		 <p>ingles hablado y escrito  </p>
+		 <p>disponibilidad horaria  </p>
+	 <body>
+ <html>
